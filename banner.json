@@ -1,7 +1,35 @@
 {
   "schema": 1,
-  "mode": "off",
-  "slides": [],
-  "updated": "2026-10-12T16:05:00-03:00",
-  "note": "Prueba del flujo nuevo desde n8n: sin cambios en la web"
+  "mode": "kenburns",
+  "version": 1792428242,
+  "usedAiScene": true,
+  "slides": [
+    {
+      "d": "hero/1-d.webp",
+      "m": "hero/1-m.webp",
+      "alt": "Ambiente living",
+      "focus": "65% 50%",
+      "kb": "in",
+      "copy": {
+        "kicker": "",
+        "title": "Espacios luminosos que invitan al descanso",
+        "sub": "Muebles con texturas nobles para habitar la calma de tu hogar.",
+        "cta": "Ver colección",
+        "href": "/"
+      }
+    }
+  ],
+  "copy": {
+    "kicker": "",
+    "title": "Espacios luminosos que invitan al descanso",
+    "sub": "Muebles con texturas nobles para habitar la calma de tu hogar.",
+    "cta": "Ver colección",
+    "href": "/"
+  },
+  "timing": {
+    "slideMs": 8000,
+    "fadeMs": 1200
+  },
+  "updated": "2026-10-19T13:44:02-03:00",
+  "note": "Publicado desde el ERP"
 }
