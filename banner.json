@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "mode": "kenburns",
-  "version": 1792428242,
+  "version": 1793111523,
   "usedAiScene": true,
   "slides": [
     {
@@ -17,6 +17,24 @@
         "cta": "Ver colección",
         "href": "/"
       }
+    },
+    {
+      "d": "hero/2-d.webp",
+      "m": "hero/2-m.webp",
+      "alt": "Ambiente living con Sillón Moon con camastro · Bouclé en Beige",
+      "focus": "65% 50%",
+      "kb": "out",
+      "video": {
+        "d": "https://matideluca-supabase.z2hzko.easypanel.host/storage/v1/object/public/estudio/lunoba-banners/3b00eb77-cbb0-436c-b350-e074eef731d9/39f85ea3-4b6a-4a32-8be5-d9907506ad47/video-1793110520-d.mp4",
+        "m": "https://matideluca-supabase.z2hzko.easypanel.host/storage/v1/object/public/estudio/lunoba-banners/3b00eb77-cbb0-436c-b350-e074eef731d9/39f85ea3-4b6a-4a32-8be5-d9907506ad47/video-1793110520-m.mp4"
+      },
+      "copy": {
+        "kicker": "",
+        "title": "",
+        "sub": "",
+        "cta": "",
+        "href": ""
+      }
     }
   ],
   "copy": {
@@ -30,6 +48,6 @@
     "slideMs": 8000,
     "fadeMs": 1200
   },
-  "updated": "2026-10-19T13:44:02-03:00",
+  "updated": "2026-10-27T11:32:03-03:00",
   "note": "Publicado desde el ERP"
 }
