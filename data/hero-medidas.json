@@ -1,8 +1,118 @@
 {
-  "schema": 1,
-  "version": "v014",
-  "compu": { "ancho": 1920, "alto": 1080 },
-  "celu": { "ancho": 1080, "alto": 1920 },
-  "actualizado": "2026-11-03T12:00:00.000Z",
-  "nota": "Medidas iniciales del hero. Actualizar este archivo cada vez que cambie el hero del theme."
+  "schema": 2,
+  "version": "v020",
+  "actualizado": "2026-11-03",
+  "compu": {
+    "ancho": 1920,
+    "alto": 1080
+  },
+  "celu": {
+    "ancho": 1080,
+    "alto": 1920
+  },
+  "nota": "Medido en vivo sobre https://lunobahome.com/ con scripts/lunoba-hero-medir.mjs: compu 1440x899, celu 375x812. Todo en fracciones (0-1) del viewport. La portada ocupa toda la pantalla con object-fit: cover, así que lo importante va en el centro. El sujeto es valor de diseño (no se mide). Volver a correr el script en cada versión del theme que mueva el texto, el header o los velos.",
+  "zonas": {
+    "compu": {
+      "viewport": {
+        "ancho": 1440,
+        "alto": 899
+      },
+      "header": {
+        "alto": 0.0623,
+        "transparente": true
+      },
+      "titulo": {
+        "x": 0.0333,
+        "y": 0.6721,
+        "ancho": 0.2597,
+        "alto": 0.1445,
+        "color": "#f6f1e7"
+      },
+      "cta": {
+        "x": 0.0333,
+        "y": 0.8654,
+        "ancho": 0.088,
+        "alto": 0.0534
+      },
+      "velos": {
+        "plano": {
+          "opacidad": 0.1,
+          "color": "#231d19"
+        },
+        "arriba": {
+          "alto": 0.2225,
+          "opacidad": 0.5,
+          "color": "#231d19"
+        },
+        "abajo": {
+          "alto": 0.56,
+          "opacidad": 0.42,
+          "color": "#231d19"
+        }
+      },
+      "texto": {
+        "x0": 0.0333,
+        "y0": 0.6721,
+        "x1": 0.293,
+        "y1": 0.9188
+      },
+      "sujeto": {
+        "x0": 0.5,
+        "y0": 0.2,
+        "x1": 1,
+        "y1": 0.8
+      }
+    },
+    "celu": {
+      "viewport": {
+        "ancho": 375,
+        "alto": 812
+      },
+      "header": {
+        "alto": 0.069,
+        "transparente": true
+      },
+      "titulo": {
+        "x": 0.064,
+        "y": 0.7413,
+        "ancho": 0.872,
+        "alto": 0.064,
+        "color": "#f6f1e7"
+      },
+      "cta": {
+        "x": 0.064,
+        "y": 0.8571,
+        "ancho": 0.338,
+        "alto": 0.0591
+      },
+      "velos": {
+        "plano": {
+          "opacidad": 0.1,
+          "color": "#231d19"
+        },
+        "arriba": {
+          "alto": 0.2463,
+          "opacidad": 0.5,
+          "color": "#231d19"
+        },
+        "abajo": {
+          "alto": 0.56,
+          "opacidad": 0.42,
+          "color": "#231d19"
+        }
+      },
+      "texto": {
+        "x0": 0.064,
+        "y0": 0.7413,
+        "x1": 0.936,
+        "y1": 0.9163
+      },
+      "sujeto": {
+        "x0": 0.1,
+        "y0": 0.15,
+        "x1": 0.9,
+        "y1": 0.6
+      }
+    }
+  }
 }
