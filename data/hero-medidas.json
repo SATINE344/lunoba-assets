@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "version": "v014",
+  "compu": { "ancho": 1920, "alto": 1080 },
+  "celu": { "ancho": 1080, "alto": 1920 },
+  "actualizado": "2026-11-03T12:00:00.000Z",
+  "nota": "Medidas iniciales del hero. Actualizar este archivo cada vez que cambie el hero del theme."
+}
