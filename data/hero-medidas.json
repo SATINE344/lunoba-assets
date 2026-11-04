@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": "v020",
-  "actualizado": "2026-11-03",
+  "version": "v021",
+  "actualizado": "2026-11-04",
   "compu": {
     "ancho": 1920,
     "alto": 1080
@@ -22,39 +22,39 @@
         "transparente": true
       },
       "titulo": {
-        "x": 0.0333,
-        "y": 0.6721,
-        "ancho": 0.2597,
-        "alto": 0.1445,
+        "x": 0.3112,
+        "y": 0.3546,
+        "ancho": 0.3776,
+        "alto": 0.1961,
         "color": "#f6f1e7"
       },
       "cta": {
-        "x": 0.0333,
-        "y": 0.8654,
-        "ancho": 0.088,
-        "alto": 0.0534
+        "x": 0.4649,
+        "y": 0.62,
+        "ancho": 0.0701,
+        "alto": 0.0489
       },
       "velos": {
         "plano": {
-          "opacidad": 0.1,
+          "opacidad": 0.16,
           "color": "#231d19"
         },
         "arriba": {
-          "alto": 0.2225,
-          "opacidad": 0.5,
+          "alto": 0.1335,
+          "opacidad": 0.32,
           "color": "#231d19"
         },
         "abajo": {
-          "alto": 0.56,
-          "opacidad": 0.42,
+          "alto": 0.2,
+          "opacidad": 0.26,
           "color": "#231d19"
         }
       },
       "texto": {
-        "x0": 0.0333,
-        "y0": 0.6721,
-        "x1": 0.293,
-        "y1": 0.9188
+        "x0": 0.3112,
+        "y0": 0.3299,
+        "x1": 0.6888,
+        "y1": 0.669
       },
       "sujeto": {
         "x0": 0.5,
@@ -73,45 +73,45 @@
         "transparente": true
       },
       "titulo": {
-        "x": 0.064,
-        "y": 0.7413,
-        "ancho": 0.872,
-        "alto": 0.064,
+        "x": 0.1327,
+        "y": 0.3928,
+        "ancho": 0.7346,
+        "alto": 0.1199,
         "color": "#f6f1e7"
       },
       "cta": {
-        "x": 0.064,
-        "y": 0.8571,
-        "ancho": 0.338,
-        "alto": 0.0591
+        "x": 0.3653,
+        "y": 0.5863,
+        "ancho": 0.2693,
+        "alto": 0.0542
       },
       "velos": {
         "plano": {
-          "opacidad": 0.1,
+          "opacidad": 0.16,
           "color": "#231d19"
         },
         "arriba": {
-          "alto": 0.2463,
-          "opacidad": 0.5,
+          "alto": 0.1478,
+          "opacidad": 0.32,
           "color": "#231d19"
         },
         "abajo": {
-          "alto": 0.56,
-          "opacidad": 0.42,
+          "alto": 0.2,
+          "opacidad": 0.26,
           "color": "#231d19"
         }
       },
       "texto": {
         "x0": 0.064,
-        "y0": 0.7413,
+        "y0": 0.3595,
         "x1": 0.936,
-        "y1": 0.9163
+        "y1": 0.6405
       },
       "sujeto": {
         "x0": 0.1,
         "y0": 0.15,
         "x1": 0.9,
-        "y1": 0.6
+        "y1": 0.33
       }
     }
   }
